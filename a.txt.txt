@@ -4,4 +4,3 @@ Jungha: I wrote this.
 =======
 
 Hello to you guys!
->>>>>>> 01ad86597d5cbd5789ba320c99b329e20924bbcc
