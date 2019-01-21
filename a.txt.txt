@@ -1,2 +1,6 @@
 Hello Greg and Jungha.
-Rob is trying to push this file.
+<<<<<<< HEAD
+Jungha: I wrote this.
+=======
+
+Hello to you guys!
