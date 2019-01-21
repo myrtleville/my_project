@@ -4,4 +4,7 @@ Jungha: I wrote this.
 =======
 
 Hello to you guys!
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5d071d167ea9b776f4993e99eb2e4cb22999b1ff
